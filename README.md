@@ -1,0 +1,2 @@
+# oneselfcdn
+Own CDN server
