@@ -1,0 +1,16 @@
+[
+  {
+    "data": {
+      "from": "a1ece126ba71aad3908b617e6c9621bfa9701a88",
+      "value": 100000000000000000
+    },
+    "__typename": "get_result_template"
+  },
+  {
+    "data": {
+      "from": "2534c4730f496a1fc988d8385d9648b375564a64",
+      "value": 8982143498724535
+    },
+    "__typename": "get_result_template"
+  }
+]
